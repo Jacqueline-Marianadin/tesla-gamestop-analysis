@@ -55,6 +55,6 @@ I am currently in the process of deepening my knowledge and skills in Python, da
 
 - ## How to Use
 
-1. Download the repository : Analyse de données-tesla-gme.ipynb
-2. Open the `tesla_stock_analysis.ipynb` file in Jupyter Notebook or JupyterLab.
+1. Download the repository : https://github.com/Jacqueline-Marianadin/tesla-gamestop-analysis
+2. Open the `tesla-gamestop-analysis.ipynb` file in Jupyter Notebook or JupyterLab.
 3. Run the cells to reproduce the analysis.
