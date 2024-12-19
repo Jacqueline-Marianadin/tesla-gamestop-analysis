@@ -41,6 +41,7 @@ The objectives include:
 
 I am currently in the process of deepening my knowledge and skills in Python, data manipulation, and visualization as part of my journey to becoming a professional in data.
 
+
 ---
 
 ## Results and Insights
@@ -55,6 +56,6 @@ I am currently in the process of deepening my knowledge and skills in Python, da
 
 - ## How to Use
 
-1. Download the repository : https://github.com/Jacqueline-Marianadin/tesla-gamestop-analysis
+1. Download the repository : https://github.com/Jacqueline-Marianadin/tesla-gamestop-analysis.git
 2. Open the `tesla-gamestop-analysis.ipynb` file in Jupyter Notebook or JupyterLab.
 3. Run the cells to reproduce the analysis.
